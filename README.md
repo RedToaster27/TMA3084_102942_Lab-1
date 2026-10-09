@@ -1,6 +1,6 @@
 # TMA3084_102942_Lab-1
-**TMA3084 SELab Lab 1 - Pizza Order Calculator
-**
+**TMA3084 SELab Lab 1 - Pizza Order Calculator**
+
 **Description**
 This project is a simple Pizza Order Calculator developed using Dart. It allows users to select a pizza size, enter the quantity, and calculate the total payment.
 
